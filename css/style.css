@@ -1,0 +1,33 @@
+body{
+    background-color: #1e90ff;
+}
+.h2{
+    border-bottom: 2px solid #1e90ff;
+}
+.container{
+    color: #1e90ff;
+    background-color: #ffffff;
+    padding: 15px;
+    font-size: 25px;
+}
+.button{
+    background-color: #ffffff;
+    color: #1e90ff;
+    border: 1px solid #1e90ff;
+    padding: 5px;
+}
+.intro {
+    background-color: yellow;
+  }
+  #firstname {
+    background-color: rgba(255, 0, 106, 0.877);
+  }
+  input:focus {
+    background-color: yellow;
+  }
+  .tex {
+    text-align: center;
+  }
+  input:in-range {
+    border: 2px solid yellow;
+  }
